@@ -1,0 +1,5 @@
+Vagrant config to setup environment for arteVIDEOS.py script and download through  unotelly.
+
+References:
+ * DNS - http://www.unotelly.com/
+ * script - https://github.com/solsticedhiver/arteVIDEOS
